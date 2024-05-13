@@ -1,6 +1,6 @@
 package com.sagar.example1;
 
-public class Eagle {
+class Eagle {
 
 
     public String breed;
