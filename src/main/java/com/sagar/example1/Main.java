@@ -1,8 +1,7 @@
-package reflection.example1;
+package com.sagar.example1;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
-import java.util.Arrays;
 
 public class Main {
 
