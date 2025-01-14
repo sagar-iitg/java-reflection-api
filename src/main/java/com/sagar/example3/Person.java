@@ -2,6 +2,7 @@ package com.sagar.example3;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 import java.lang.reflect.InvocationTargetException;
@@ -11,6 +12,7 @@ import java.util.Arrays;
 @AllArgsConstructor
 @Getter
 @ToString
+@NoArgsConstructor
 public class Person {
 
     private String name;
